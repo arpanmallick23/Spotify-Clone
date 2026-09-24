@@ -4,12 +4,6 @@ A **pixel-perfect recreation of the Spotify Web Player interface**, built entire
 
 This project was created to strengthen frontend development skills by recreating Spotify's desktop interface from scratch, with a focus on **CSS Flexbox, Grid, responsive layouts, positioning, and dynamic viewport calculations**.
 
-## 📸 Preview
-
-![Spotify Clone Preview](./assets/preview.png)
-
-> If the preview image is not available in the repository, remove this section or add a screenshot at `assets/preview.png`.
-
 ## ✨ Features
 
 * 🎧 Spotify-inspired Web Player interface
